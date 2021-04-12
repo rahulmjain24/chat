@@ -1,0 +1,37 @@
+html *
+{
+    background-color:#717171;
+   color:#ffffff !important;
+   
+}
+
+body{
+    background-color:#717171;
+    
+}
+.container{
+    max-width: 600px;
+
+}
+.btn{
+    background: #696969;
+}
+.input-group-text{
+    background: #696969;
+}
+#name{
+    background: #b4b4b4ab;
+}
+#message{
+    background: #b4b4b4ab;
+}
+.chat-window{
+    background-color: #595959;
+}
+.author{
+    font-weight: bold;
+}
+.time{
+    font-size: 0.7em;
+    color: #e6e6e6;
+}
